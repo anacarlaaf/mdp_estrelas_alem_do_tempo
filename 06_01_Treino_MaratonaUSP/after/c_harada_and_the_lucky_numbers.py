@@ -16,6 +16,8 @@ Ex:
 1 1 1 1 1 2 4 5 6 7
 3
 112 145 167
+
+Da nova forma não precisaria ordenar
 """
 
 l1 = [str(l) for l in l1]
